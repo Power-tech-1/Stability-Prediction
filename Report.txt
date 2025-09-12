@@ -1,0 +1,47 @@
+--- Loading data from file: C:\Users\rohit\OneDrive\Desktop\term project power system\ISO-NE-case3\ISO-NE_case3.csv  
+
+Input data set consists of: 
+    35  frequency signals 
+    35  voltage magnitude signals 
+    35  voltage angle signals 
+    35  current magnitude signals 
+    35  current angle signals 
+
+
+--There are   35 transmission elements with full data set(f,Vm,Va,Im,Ia) 
+Sub:1:Ln:1 
+Sub:1:Ln:1-11 
+Sub:2:Ln:2 
+Sub:2:Ln:3 
+Sub:2:Ln:4 
+Sub:3:Ln:5 
+Sub:3:Ln:6 
+Sub:3:Ln:7 
+Sub:4:Ln:8 
+Sub:4:Ln:4-6 
+Sub:4:Ln:9 
+Sub:5:Ln:10 
+Sub:5:Ln:11 
+Sub:5:Ln:12 
+Sub:6:Ln:4-6 
+Sub:6:Ln:13 
+Sub:6:Ln:14 
+Sub:6:Gen:Gen1 
+Sub:7:Ln:15 
+Sub:7:Ln:16 
+Sub:7:Gen:Gen2 
+Sub:8:Ln:17 
+Sub:8:Ln:18 
+Sub:8:Ln:19 
+Sub:8:Gen:Gen1 
+Sub:9:Ln:20 
+Sub:9:Ln:21 
+Sub:10:Ln:22 
+Sub:10:Ln:23 
+Sub:10:Ln:24 
+Sub:11:Ln:25 
+Sub:11:Ln:1-11 
+Sub:12:Ln:26 
+Sub:12:Ln:27 
+Sub:12:Ln:28 
+
