@@ -1,0 +1,34 @@
+Case: ISO-NE_case3
+
+-------Description----------
+Power system: ISO New England is a North-East part of the Eastern Interconnection in the USA
+Peak load is about 26,000 MW
+
+Date of event: July 20, 2017
+
+Type of oscillations: regional mode observed in multiple places
+
+Frequency: 1.13Hz
+
+Peak-to-peak magnitude: up to 115 MW
+
+Is it a resonance condition case?: No
+
+Location of the source: Area 1, see map ISO-NE_map.pdf. 
+The source is located East from Sub:2 connected by Ln:2 and Ln:4.
+
+Details of the source: large generator in Area 1
+
+Confidence level on the known location of the source: 100%
+
+Duration of time interval of submitted PMU data: 3 min
+
+Comments: 
+Some equipment issues in a large generator has created 1.13Hz oscillations with growing magnitude 
+during 40 seconds. Oscillations with significat MW magnitude were observed in 
+multiple locations of the New England power system.
+
+
+
+
+
